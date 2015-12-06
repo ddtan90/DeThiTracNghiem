@@ -16,7 +16,7 @@ How to use
 -------
 1. Download this project
 2. Go to this project directory
-3. Use commandline to execute command: `MVN PAKAGE`
+3. Use commandline to execute command: `MVN PACKAGE`
 4. Go to `target` directory 
 5. Run command: `java -jar DeThiTracNghiem-1.0.0-BUILD-SNAPSHOT.jar`
 6. Open web browser, access url: `localhost:8080`
